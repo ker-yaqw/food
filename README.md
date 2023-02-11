@@ -1,4 +1,4 @@
 ## food
 
-- Это landing page [смотрите сами](https://ker-yaqw.git.io/picture/dist/)
+- Это landing page [смотрите сами](https://ker-yaqw.gitgub.io/food/dist/)
 - Используется Native JavaScript  
