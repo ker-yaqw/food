@@ -1,0 +1,12 @@
+.footer {
+    background-color: $dark;
+    color: #fff;
+    padding: 0;
+    .container {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 70px;
+    }
+}
